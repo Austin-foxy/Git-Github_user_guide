@@ -17,3 +17,5 @@
 7.git checkout 提交歷史中的ID --檔案名稱.md   //還原版本至指定操作前
 8.git reset --hard 提交歷史中的ID   //將全部檔案還原到特定版本(不可逆)
 9.刪除檔案時需要再將刪除的內容git add進暫存區，再將其commit才可正確刪除
+
+資料來源：https://www.youtube.com/watch?v=FKXRiAiQFiY&t=82s
