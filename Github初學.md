@@ -4,8 +4,8 @@ Git/Github 簡易操作
 
 # 終端機的基礎操作說明：  
 1.git --version   //顯示git當前版本  
-2.git config --gloabal user.name "姓名"   //設定姓名  
-3.git config --gloabal user.email "信箱(...@gmail.com)"   //設定信箱  
+2.git config --global user.name "姓名"   //設定姓名  
+3.git config --global user.email "信箱(...@gmail.com)"   //設定信箱  
 4.git init   //設定隱藏.git資料夾(儲存檔案歷史與備份紀錄)  
 5.clear   //清空螢幕內容  
 
